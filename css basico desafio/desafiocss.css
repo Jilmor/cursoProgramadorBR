@@ -1,0 +1,29 @@
+body{
+   
+   background: black
+}
+.fundo {
+width: 400px;
+height: 200px;
+font-size: 18px;
+background: url('./img/backgorund.png');
+background-size: cover;
+margin-top: 1px 20px;
+margin: auto;
+box-sizing: content-box;
+}
+.nome{
+   font-size: 28px;
+   font-family: fantasy;
+}
+.lik{
+   text-decoration: none;
+}
+a:hover{
+   background: black;
+   color:seashell;
+}
+ul{
+   list-style: none;
+}
+
